@@ -1,0 +1,17 @@
+1. Command to Upload package.
+
+
+
+Move the XXNBTY_MSC_EXT03_SPREAD_EXT_PKG.pkb to /u01/oracle/apps/apps_st/appl/xxnbty/12.0.0/admin/sql and execute the command.
+NOTE: You may use apps user and apps password. 
+
+
+
+sqlplus -s USERNAME/PASSWORD
+
+@/u01/oracle/apps/apps_st/appl/xxnbty/12.0.0/admin/sql/XXNBTY_MSC_EXT03_SPREAD_EXT_PKG.pkb 
+
+
+
+
+
